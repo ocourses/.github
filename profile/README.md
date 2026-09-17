@@ -4,6 +4,10 @@ Cette organisation regroupe des ressources pédagogiques utilisées dans mes cou
 
 ## Cours à la une
 
+### [Automatique](https://github.com/ocourses/automatique)
+
+Supports du cours d’**automatique de première année** du département **Sciences du numérique** de l’[ENSEEIHT](https://www.enseeiht.fr/). Le dépôt rassemble les supports de cours, les travaux dirigés, les travaux pratiques ainsi que les sujets d’examen et certains corrigés.
+
 ### [Calcul différentiel et équations différentielles ordinaires](https://github.com/ocourses/calcul-differentiel-edo)
 
 Cours de calcul différentiel et d’équations différentielles ordinaires pour les étudiants de la formation **ModIA**, commune à l’[INP-ENSEEIHT](https://www.enseeiht.fr/) et à l’[INSA Toulouse](https://www.insa-toulouse.fr/). Le dépôt contient le polycopié, des notebooks de travaux pratiques en Julia ainsi que d’anciens sujets d’examen.
@@ -15,3 +19,4 @@ Cours d’introduction au langage Julia destiné aux étudiants de **Master 1 et
 ### [Estimation de paramètres dans les EDO linéaires](https://github.com/ocourses/kaplan)
 
 Cours consacré à l’estimation de paramètres dans les équations différentielles ordinaires linéaires, destiné aux étudiants de **deuxième année** de la [Prépa des INP](https://www.inp-toulouse.fr/fr/formations/la-prepa-des-inp.html) à Toulouse. Les supports sont également disponibles sur le [site du cours](https://ocourses.github.io/kaplan).
+
