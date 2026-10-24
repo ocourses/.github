@@ -16,7 +16,10 @@ Cours de calcul différentiel et d’équations différentielles ordinaires pour
 
 Cours d’introduction au langage Julia destiné aux étudiants de **Master 1 et Master 2** de la [Toulouse School of Economics (TSE)](https://www.tse-fr.eu/fr). Le [site du cours](https://ocourses.github.io/julia-tse) rassemble les supports et les exercices.
 
+### [Mesure et intégration](https://github.com/ocourses/mesure-integration)
+
+Cours de mesure et d’intégration consacré aux notions fondamentales de la théorie de la mesure, de l’intégrale de Lebesgue et de leurs applications. Les supports sont disponibles sur le [site du cours](https://ocourses.github.io/mesure-integration).
+
 ### [Estimation de paramètres dans les EDO linéaires](https://github.com/ocourses/kaplan)
 
 Cours consacré à l’estimation de paramètres dans les équations différentielles ordinaires linéaires, destiné aux étudiants de **deuxième année** de la [Prépa des INP](https://www.inp-toulouse.fr/fr/formations/la-prepa-des-inp.html) à Toulouse. Les supports sont également disponibles sur le [site du cours](https://ocourses.github.io/kaplan).
-
